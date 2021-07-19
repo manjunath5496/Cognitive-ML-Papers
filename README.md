@@ -4,154 +4,135 @@
 
                              
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Cognitive-ML-Papers/blob/master/ml(1).pdf" style="text-decoration:none;">CoqIOA: A Formalization of IO Automata in the
-Coq Proof Assistant</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Cognitive-ML-Papers/blob/master/ml(1).pdf" style="text-decoration:none;">Self-supervised learning through the eyes of a child</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Cognitive-ML-Papers/blob/master/ml(2).pdf" style="text-decoration:none;">An Offline Foundation for
-Online Accountable Pseudonyms</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Cognitive-ML-Papers/blob/master/ml(2).pdf" style="text-decoration:none;">Pixelor: A Competitive Sketching AI Agent. So you think you can sketch?</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Cognitive-ML-Papers/blob/master/ml(3).pdf" style="text-decoration:none;">A Programming Language
-Based on Classical Logic</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Cognitive-ML-Papers/blob/master/ml(4).pdf" style="text-decoration:none;">The Scalable Commutativity Rule:
-Designing Scalable Software for Multicore Processors</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Cognitive-ML-Papers/blob/master/ml(5).pdf" style="text-decoration:none;">Mobile Computing with the Rover Toolkit</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Cognitive-ML-Papers/blob/master/ml(6).pdf" style="text-decoration:none;">Improving Network Connection Locality on Multicore Systems</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Cognitive-ML-Papers/blob/master/ml(7).pdf" style="text-decoration:none;">Asynchronous intrusion recovery
-for interconnected web services</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Cognitive-ML-Papers/blob/master/ml(3).pdf" style="text-decoration:none;">An Explicitly Relational Neural Network Architecture</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Cognitive-ML-Papers/blob/master/ml(4).pdf" style="text-decoration:none;">This Looks Like That: Deep Learning for
+Interpretable Image Recogniti</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Cognitive-ML-Papers/blob/master/ml(5).pdf" style="text-decoration:none;">Dark, Beyond Deep: A Paradigm Shift to Cognitive AI with Humanlike Common Sense</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Cognitive-ML-Papers/blob/master/ml(6).pdf" style="text-decoration:none;">Learning Skill Hierarchies from Predicate Descriptions and Self-Supervision</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Cognitive-ML-Papers/blob/master/ml(7).pdf" style="text-decoration:none;">The Neuro-Symbolic Concept Learner: Interpreting Scenes, Words, and Sentences From Natural Supervision</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Cognitive-ML-Papers/blob/master/ml(8).pdf" style="text-decoration:none;"> Performance Optimization of the VDFS Verified
-File System </a></li>
-   <li><a target="_blank" href="https://github.com/manjunath5496/Cognitive-ML-Papers/blob/master/ml(9).pdf" style="text-decoration:none;">Algorand: Scaling Byzantine Agreements
-for Cryptocurrencies</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Cognitive-ML-Papers/blob/master/ml(8).pdf" style="text-decoration:none;"> It is not the Journey but the Destination: Endpoint Conditioned Trajectory Prediction </a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Cognitive-ML-Papers/blob/master/ml(9).pdf" style="text-decoration:none;">Energy-Based Models for Continual Learning</a></li>
   
    
- <li><a target="_blank" href="https://github.com/manjunath5496/Cognitive-ML-Papers/blob/master/ml(10).pdf" style="text-decoration:none;">Alpaca: Extensible Authorization for Distributed Services </a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Cognitive-ML-Papers/blob/master/ml(11).pdf" style="text-decoration:none;">A Concurrency-Optimal Binary Search Tree</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Cognitive-ML-Papers/blob/master/ml(12).pdf" style="text-decoration:none;">Alpenhorn: Bootstrapping Secure Communication without Leaking Metadata</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Cognitive-ML-Papers/blob/master/ml(13).pdf" style="text-decoration:none;">Amber: Decoupling User Data from Web Applications</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Cognitive-ML-Papers/blob/master/ml(10).pdf" style="text-decoration:none;">Compositional Explanations of Neurons </a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Cognitive-ML-Papers/blob/master/ml(11).pdf" style="text-decoration:none;">Few-Shot Bayesian Imitation Learning with Logical Program Policies</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Cognitive-ML-Papers/blob/master/ml(12).pdf" style="text-decoration:none;">Understanding Deep Architectures with Reasoning Layer</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Cognitive-ML-Papers/blob/master/ml(13).pdf" style="text-decoration:none;">The Seven Tools of Causal Inference,
+with Reflections on Machine Learning</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Cognitive-ML-Papers/blob/master/ml(14).pdf" style="text-decoration:none;">Quboid: A Workstation for Safer Web Interaction</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Cognitive-ML-Papers/blob/master/ml(14).pdf" style="text-decoration:none;">Understanding the role of individual units in a deep neural network</a></li>
                               
-<li><a target="_blank" href="https://github.com/manjunath5496/Cognitive-ML-Papers/blob/master/ml(15).pdf" style="text-decoration:none;">Argosy: Verifying Layered Storage Systems with
-Recovery Refinement</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Cognitive-ML-Papers/blob/master/ml(15).pdf" style="text-decoration:none;">Rapid trial-and-error learning with simulation supports flexible tool use and physical reasoning</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Cognitive-ML-Papers/blob/master/ml(16).pdf" style="text-decoration:none;">LRC: Dependency-Aware Cache Management
-for Data Analytics Clusters</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Cognitive-ML-Papers/blob/master/ml(16).pdf" style="text-decoration:none;">Learning Task-General Representations with Generative Neuro-Symbolic Modeling</a></li>
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Cognitive-ML-Papers/blob/master/ml(17).pdf" style="text-decoration:none;">Make Least Privilege a Right (Not a Privilege)</a></li>   
+  <li><a target="_blank" href="https://github.com/manjunath5496/Cognitive-ML-Papers/blob/master/ml(17).pdf" style="text-decoration:none;">Understanding Tools:
+Task-Oriented Object Modeling, Learning and Recognition</a></li>   
   
-<li><a target="_blank" href="https://github.com/manjunath5496/Cognitive-ML-Papers/blob/master/ml(18).pdf" style="text-decoration:none;">Labels and Event Processes
-in the Asbestos Operating System</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Cognitive-ML-Papers/blob/master/ml(18).pdf" style="text-decoration:none;">Machine Theory of Mind</a></li> 
 
   
-<li><a target="_blank" href="https://github.com/manjunath5496/Cognitive-ML-Papers/blob/master/ml(19).pdf" style="text-decoration:none;">Privacy-Preserving Browser-Side Scripting With BFlow</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Cognitive-ML-Papers/blob/master/ml(19).pdf" style="text-decoration:none;">VISALOGY: Answering Visual Analogy Questions</a></li> 
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Cognitive-ML-Papers/blob/master/ml(20).pdf" style="text-decoration:none;">The benefits and costs of writing a
-POSIX kernel in a high-level language</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Cognitive-ML-Papers/blob/master/ml(20).pdf" style="text-decoration:none;">Zero-Shot Object Detection</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Cognitive-ML-Papers/blob/master/ml(21).pdf" style="text-decoration:none;">The Benefits and Costs of Writing a POSIX Kernel in a High-Level Language</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Cognitive-ML-Papers/blob/master/ml(22).pdf" style="text-decoration:none;">LLVM: A Compilation Framework for
-Lifelong Program Analysis and Transformation</a></li> 
- <li><a target="_blank" href="https://github.com/manjunath5496/Cognitive-ML-Papers/blob/master/ml(23).pdf" style="text-decoration:none;">The Benefits and Costs of Writing a POSIX
-Kernel in a High-Level Language [Cody Cutler]</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Cognitive-ML-Papers/blob/master/ml(21).pdf" style="text-decoration:none;">Distributional Generalization:
+A New Kind of Generalization</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Cognitive-ML-Papers/blob/master/ml(22).pdf" style="text-decoration:none;">SegNBDT: Visual Decision Rules for Segmentation</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Cognitive-ML-Papers/blob/master/ml(23).pdf" style="text-decoration:none;">Noise or Signal: The Role of Image Backgrounds in Object Recognition</a></li> 
  
 
-   <li><a target="_blank" href="https://github.com/manjunath5496/Cognitive-ML-Papers/blob/master/ml(24).pdf" style="text-decoration:none;">Separating Web Applications from User Data Storage with BSTORE</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Cognitive-ML-Papers/blob/master/ml(24).pdf" style="text-decoration:none;">Abductive Commonsense Reasoning</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Cognitive-ML-Papers/blob/master/ml(25).pdf" style="text-decoration:none;">A Methodical Study of Web Crawler</a></li>                              
- <li><a target="_blank" href="https://github.com/manjunath5496/Cognitive-ML-Papers/blob/master/ml(26).pdf" style="text-decoration:none;">Certifying a File System Using
-Crash Hoare Logic: Correctness in the Presence of Crashes</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Cognitive-ML-Papers/blob/master/ml(27).pdf" style="text-decoration:none;">A Differential Approach to
-Undefined Behavior Detection</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Cognitive-ML-Papers/blob/master/ml(25).pdf" style="text-decoration:none;">AMRL: Aggregated Memory For Reinforcement Learning</a></li>                              
+ <li><a target="_blank" href="https://github.com/manjunath5496/Cognitive-ML-Papers/blob/master/ml(26).pdf" style="text-decoration:none;">Towards Open World Object Detection</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Cognitive-ML-Papers/blob/master/ml(27).pdf" style="text-decoration:none;">Learning by Abstraction: The Neural State Machine</a></li>
    
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Cognitive-ML-Papers/blob/master/ml(28).pdf" style="text-decoration:none;">Reducing Pause Times with Clustered Collection</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Cognitive-ML-Papers/blob/master/ml(28).pdf" style="text-decoration:none;">Time for a Background Check! Uncovering the impact of Background Features on Deep Neural Networks</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Cognitive-ML-Papers/blob/master/ml(29).pdf" style="text-decoration:none;">Reducing Pause Times With Clustered Collection [Cody Cutler] </a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/Cognitive-ML-Papers/blob/master/ml(29).pdf" style="text-decoration:none;">BONGARD-LOGO: A New Benchmark for
+Human-Level Concept Learning and Reasoning </a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Cognitive-ML-Papers/blob/master/ml(30).pdf" style="text-decoration:none;">Certifying Program Execution with Secure Processors</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Cognitive-ML-Papers/blob/master/ml(30).pdf" style="text-decoration:none;">MineRL: A Large-Scale Dataset of Minecraft Demonstrations</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Cognitive-ML-Papers/blob/master/ml(31).pdf" style="text-decoration:none;">Providing a Shared File System in the Hare
-POSIX Multikernel</a></li> 
-    <li><a target="_blank" href="https://github.com/manjunath5496/Cognitive-ML-Papers/blob/master/ml(32).pdf" style="text-decoration:none;">Linux kernel vulnerabilities:
-State-of-the-art defenses and open problems</a></li> 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Cognitive-ML-Papers/blob/master/ml(31).pdf" style="text-decoration:none;">An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale</a></li> 
+    <li><a target="_blank" href="https://github.com/manjunath5496/Cognitive-ML-Papers/blob/master/ml(32).pdf" style="text-decoration:none;">Design Mining for Minecraft Architecture</a></li> 
 
-   <li><a target="_blank" href="https://github.com/manjunath5496/Cognitive-ML-Papers/blob/master/ml(33).pdf" style="text-decoration:none;">Robust and Efficient Data Management for a Distributed Hash Table</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/Cognitive-ML-Papers/blob/master/ml(33).pdf" style="text-decoration:none;">X-ToM: Explaining with Theory-of-Mind for Gaining Justified Human Trust</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Cognitive-ML-Papers/blob/master/ml(34).pdf" style="text-decoration:none;">Choosing Internet Paths with High Bulk Transfer Capacity</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Cognitive-ML-Papers/blob/master/ml(34).pdf" style="text-decoration:none;">Generative Design in Minecraft:
+Chronicle Challenge</a></li> 
  
-  <li><a target="_blank" href="https://github.com/manjunath5496/Cognitive-ML-Papers/blob/master/ml(35).pdf" style="text-decoration:none;">Melody: A Distributed Music-Sharing System</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Cognitive-ML-Papers/blob/master/ml(35).pdf" style="text-decoration:none;">AGENT: A Benchmark for Core Psychological Reasoning</a></li> 
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Cognitive-ML-Papers/blob/master/ml(36).pdf" style="text-decoration:none;">A Keyword-Set Search System for Peer-to-Peer
-Networks</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Cognitive-ML-Papers/blob/master/ml(36).pdf" style="text-decoration:none;">Recognition-by-Components: A Theory of Human Image Understanding</a></li> 
  
-<li><a target="_blank" href="https://github.com/manjunath5496/Cognitive-ML-Papers/blob/master/ml(37).pdf" style="text-decoration:none;">Herodotus: A Peer-to-PeerWeb Archival System</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Cognitive-ML-Papers/blob/master/ml(38).pdf" style="text-decoration:none;">A case study of server selection</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Cognitive-ML-Papers/blob/master/ml(39).pdf" style="text-decoration:none;">The Scalable Commutativity Rule:
-Designing Scalable Software for Multicore Processors</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Cognitive-ML-Papers/blob/master/ml(40).pdf" style="text-decoration:none;">Programming language optimizations for modular router configurations</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Cognitive-ML-Papers/blob/master/ml(41).pdf" style="text-decoration:none;">Fast Bug Finding in Lock-Free Data Structures with
-CB-DPOR</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Cognitive-ML-Papers/blob/master/ml(42).pdf" style="text-decoration:none;">Finding Linearization Violations in Lock-Free
-Concurrent Data Structures</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Cognitive-ML-Papers/blob/master/ml(37).pdf" style="text-decoration:none;">Causal Induction from Visual Observations for Goal Directed Tasks</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Cognitive-ML-Papers/blob/master/ml(38).pdf" style="text-decoration:none;">Disentangling contributions of visual information and interaction history in the formation of graphical conventions</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Cognitive-ML-Papers/blob/master/ml(39).pdf" style="text-decoration:none;">Program Synthesis</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Cognitive-ML-Papers/blob/master/ml(40).pdf" style="text-decoration:none;">Knowledge-Based Video Question Answering with Unsupervised Scene Descriptions</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Cognitive-ML-Papers/blob/master/ml(41).pdf" style="text-decoration:none;">Abstract Spatial-Temporal Reasoning via Probabilistic Abduction and Execution</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Cognitive-ML-Papers/blob/master/ml(42).pdf" style="text-decoration:none;">Are We Overfitting to Experimental Setups in Recognition?</a></li>
  
-  <li><a target="_blank" href="https://github.com/manjunath5496/Cognitive-ML-Papers/blob/master/ml(43).pdf" style="text-decoration:none;">The Scalable Commutativity Rule:
-Designing Scalable Software for Multicore Processors</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Cognitive-ML-Papers/blob/master/ml(44).pdf" style="text-decoration:none;">SCTP in Go</a></li>
-   <li><a target="_blank" href="https://github.com/manjunath5496/Cognitive-ML-Papers/blob/master/ml(45).pdf" style="text-decoration:none;">Cloud Based Web Scraping for Big Data Applications</a></li>  
+  <li><a target="_blank" href="https://github.com/manjunath5496/Cognitive-ML-Papers/blob/master/ml(43).pdf" style="text-decoration:none;">Putting visual object recognition in context</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Cognitive-ML-Papers/blob/master/ml(44).pdf" style="text-decoration:none;">Neuro-Symbolic Visual Reasoning: Disentangling "Visual" from "Reasoning"</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Cognitive-ML-Papers/blob/master/ml(45).pdf" style="text-decoration:none;">A Wholistic View of Continual Learning with Deep Neural Networks: Forgotten Lessons and the Bridge to Active and Open World Learning</a></li>  
    
-<li><a target="_blank" href="https://github.com/manjunath5496/Cognitive-ML-Papers/blob/master/ml(46).pdf" style="text-decoration:none;">Conclave: secure multi-party computation on big data</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Cognitive-ML-Papers/blob/master/ml(46).pdf" style="text-decoration:none;">Intentonomy: a Dataset and Study towards Human Intent Understanding</a></li> 
                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Cognitive-ML-Papers/blob/master/ml(47).pdf" style="text-decoration:none;">Corey: An Operating System for Many Cores</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Cognitive-ML-Papers/blob/master/ml(48).pdf" style="text-decoration:none;">CPHash: A Cache-Partitioned Hash Table</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Cognitive-ML-Papers/blob/master/ml(47).pdf" style="text-decoration:none;">Qualitative Simulation</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Cognitive-ML-Papers/blob/master/ml(48).pdf" style="text-decoration:none;">Generalized Inverse Planning:
+Learning Lifted non-Markovian Utility for Generalizable Task Representation</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Cognitive-ML-Papers/blob/master/ml(49).pdf" style="text-decoration:none;">Scaling Address-Space Operations on Linux with
-TSX</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Cognitive-ML-Papers/blob/master/ml(49).pdf" style="text-decoration:none;">Grounded Language Learning Fast and Slow</a></li>
                               
-<li><a target="_blank" href="https://github.com/manjunath5496/Cognitive-ML-Papers/blob/master/ml(50).pdf" style="text-decoration:none;">Why does cryptographic software fail?
-A case study and open problems</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Cognitive-ML-Papers/blob/master/ml(51).pdf" style="text-decoration:none;">In Defense of Wireless Carrier Sense</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Cognitive-ML-Papers/blob/master/ml(52).pdf" style="text-decoration:none;">Verifying concurrent software using movers in CSPEC</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Cognitive-ML-Papers/blob/master/ml(50).pdf" style="text-decoration:none;">Rapid trial-and-error learning with simulation supports flexible tool use and physical reasoning</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Cognitive-ML-Papers/blob/master/ml(51).pdf" style="text-decoration:none;">Attention Is All You Need</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Cognitive-ML-Papers/blob/master/ml(52).pdf" style="text-decoration:none;">Visual Concept-Metaconcept Learning</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Cognitive-ML-Papers/blob/master/ml(53).pdf" style="text-decoration:none;">The Little Manual of
-API Design</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Cognitive-ML-Papers/blob/master/ml(53).pdf" style="text-decoration:none;">Multi-Agent Cooperation and the Emergence of (Natural) Language</a></li>
  
-<li><a target="_blank" href="https://github.com/manjunath5496/Cognitive-ML-Papers/blob/master/ml(54).pdf" style="text-decoration:none;">Design and Applications of a Secure and Decentralized Distributed Hash Table </a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Cognitive-ML-Papers/blob/master/ml(54).pdf" style="text-decoration:none;">The Principle of Semantic
+Compositionality </a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Cognitive-ML-Papers/blob/master/ml(55).pdf" style="text-decoration:none;">Recovering from intrusions in distributed systems with DARE</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Cognitive-ML-Papers/blob/master/ml(55).pdf" style="text-decoration:none;">Collaborative Dialogue in Minecraft</a></li>
  
-  <li><a target="_blank" href="https://github.com/manjunath5496/Cognitive-ML-Papers/blob/master/ml(56).pdf" style="text-decoration:none;">Verifying a high-performance crash-safe file system using a tree specification </a></li>                              
+  <li><a target="_blank" href="https://github.com/manjunath5496/Cognitive-ML-Papers/blob/master/ml(56).pdf" style="text-decoration:none;">Human-level concept learning
+through probabilistic program induction </a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Cognitive-ML-Papers/blob/master/ml(57).pdf" style="text-decoration:none;">No Silver Bullet — Essence and Accident in Software Engineering</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Cognitive-ML-Papers/blob/master/ml(57).pdf" style="text-decoration:none;">Pooled Motion Features for First-Person Videos</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Cognitive-ML-Papers/blob/master/ml(58).pdf" style="text-decoration:none;">Proving confidentiality in a file system using DISKSEC</a></li>
-    <li><a target="_blank" href="https://github.com/manjunath5496/Cognitive-ML-Papers/blob/master/ml(59).pdf" style="text-decoration:none;">Calvin: Fast Distributed Transactions
-for Partitioned Database Systems</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Cognitive-ML-Papers/blob/master/ml(58).pdf" style="text-decoration:none;">Action Genome: Actions as Compositions of Spatio-temporal Scene Graphs</a></li>
+    <li><a target="_blank" href="https://github.com/manjunath5496/Cognitive-ML-Papers/blob/master/ml(59).pdf" style="text-decoration:none;">Circle Loss: A Unified Perspective of Pair Similarity Optimization</a></li>
  
-  <li><a target="_blank" href="https://github.com/manjunath5496/Cognitive-ML-Papers/blob/master/ml(60).pdf" style="text-decoration:none;">Executing Web Application Queries on a Partitioned Database </a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Cognitive-ML-Papers/blob/master/ml(60).pdf" style="text-decoration:none;">Neural Production Systems </a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Cognitive-ML-Papers/blob/master/ml(61).pdf" style="text-decoration:none;">DNS Performance and the Effectiveness of Caching</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Cognitive-ML-Papers/blob/master/ml(61).pdf" style="text-decoration:none;">PHYRE: A New Benchmark for Physical Reasoning</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Cognitive-ML-Papers/blob/master/ml(62).pdf" style="text-decoration:none;">Phase Reconciliation for Contended In-Memory Transactions</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Cognitive-ML-Papers/blob/master/ml(62).pdf" style="text-decoration:none;">A Theoretical Computer Science Perspective on Consciousness</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Cognitive-ML-Papers/blob/master/ml(63).pdf" style="text-decoration:none;">Locating Cache Performance Bottlenecks Using Data Profiling</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/Cognitive-ML-Papers/blob/master/ml(63).pdf" style="text-decoration:none;">Unsupervised learning by competing hidden units</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Cognitive-ML-Papers/blob/master/ml(64).pdf" style="text-decoration:none;">Understanding Real-World Concurrency Bugs in Go</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Cognitive-ML-Papers/blob/master/ml(64).pdf" style="text-decoration:none;">Invariant representation of physical stability in the human brain</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Cognitive-ML-Papers/blob/master/ml(65).pdf" style="text-decoration:none;">Dynamic Computation Migration
-in Distributed Shared Memory Systems </a></li> 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Cognitive-ML-Papers/blob/master/ml(65).pdf" style="text-decoration:none;">Program Guided Agent </a></li> 
 
-   <li><a target="_blank" href="https://github.com/manjunath5496/Cognitive-ML-Papers/blob/master/ml(66).pdf" style="text-decoration:none;">Extracting and Optimizing low-level bytecode from High-level verified Coq</a></li> 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Cognitive-ML-Papers/blob/master/ml(66).pdf" style="text-decoration:none;">Control of Memory, Active Perception, and Action in Minecraft</a></li> 
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Cognitive-ML-Papers/blob/master/ml(67).pdf" style="text-decoration:none;">Multiprocessing with the Exokernel Operating System</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/Cognitive-ML-Papers/blob/master/ml(67).pdf" style="text-decoration:none;">Visual scoping operations for physical assembly</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Cognitive-ML-Papers/blob/master/ml(68).pdf" style="text-decoration:none;">Fast and Flexible Application-Level
-Networking on Exokernel Systems</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Cognitive-ML-Papers/blob/master/ml(68).pdf" style="text-decoration:none;">On the Measure of Intelligence</a></li> 
  
   
-   <li><a target="_blank" href="https://github.com/manjunath5496/Cognitive-ML-Papers/blob/master/ml(69).pdf" style="text-decoration:none;">Device Transparency: a New Model for Mobile Storage</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/Cognitive-ML-Papers/blob/master/ml(69).pdf" style="text-decoration:none;">Compositional Generalization via Neural-Symbolic Stack Machines</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Cognitive-ML-Papers/blob/master/ml(70).pdf" style="text-decoration:none;">Eyo: Device-Transparent Personal Storage</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Cognitive-ML-Papers/blob/master/ml(70).pdf" style="text-decoration:none;">OntoZSL: Ontology-enhanced Zero-shot Learning</a></li> 
   
  
  <li><a target="_blank" href="https://github.com/manjunath5496/Cognitive-ML-Papers/blob/master/ml(71).pdf" style="text-decoration:none;">Measuring the Effects of Internet Path Faults on
